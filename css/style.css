@@ -1,9 +1,11 @@
 header{
     position: relative;
 }
+
 lt{
     display: inline-block;
 }
+
 .lt1{
     position: absolute;
     display: inline-block;
@@ -12,6 +14,7 @@ lt{
     margin-top: -0.2em;
     margin-left: 0.1em;
 }
+
 .lt2{
     position: absolute;
     display: inline-block;
@@ -21,15 +24,18 @@ lt{
     margin-left: 1em;
     letter-spacing: -0.3px;
 }
+
 .si{
     position: absolute;
     display: inline-block;
     margin-left: 41em;
     margin-top: -2.5em;
 }
+
 #pi{
     margin-right: 0.7em;
 }
+
 .slashes{
     border: solid 0px white;
     background-image: linear-gradient(45deg, #000000 15%, #fff 15%, #fff 50%, #000000 50%, #000000 65%, #fff 65%, #fff 100%);
@@ -37,6 +43,7 @@ lt{
     height: 10px;
     margin: 2em 2em;
 }
+
 #cp{
     font-family: 'Pathway Gothic One', sans-serif;
     font-size: 3.5em;
@@ -44,6 +51,7 @@ lt{
     font-weight: bold;
     letter-spacing: 0.02em;
 }
+
 #posted{
     margin-top: 2.5em;
     display: inline-block;
@@ -51,9 +59,11 @@ lt{
     font-size: 0.8em;
     opacity: 0.4;
 }
+
 .pe1{
     display: inline-block;
 }
+
 .pe2{
     margin-top: 8em;
     display: inline-block;
@@ -62,28 +72,34 @@ lt{
     font-family: 'IBM Plex Mono', monospace;
     font-size: 0.8em;
 }
+
 #picon{
     display: inline-block;
 }
+
 #pwr{
     opacity: 0.4;
     display: inline-block;
 }
+
 .mp{
     font-family: 'Crimson Text', serif;
     font-size: 1.2em;
     opacity: 0.7;
 }
+
 .fc{
     display: inline-block;   
     /* line-height: 20px; */
 
 }
+
 .sc{
     display: inline-block;
     margin-left: 13em;
     float: right;
 }
+
 .listb{
     position: relative;
     text-align: left;
@@ -91,28 +107,34 @@ lt{
     font-family: 'Patrick Hand', cursive; 
     font-size: 1.25em;
 }
+
 .iop{
     position: absolute;
     margin-top: -14.6em;
     margin-left: 4em;
     opacity: 0.7;
 }
+
  #vn{
     font-weight: bold;
     margin-left: 6em;
     margin-bottom: 1
  }
+
  #vnb{
     font-weight: bold;
     margin-bottom: 1.3em;
  }
+
 #vq{
     margin-left: 6em;
     margin-top: -5.5em;
 }
+
 #vqs{
     font-size: 0.9em;
 }
+
 #rb{
     border: 0;
     background: none;
@@ -131,31 +153,37 @@ lt{
     margin-top: -5em;
     float: right;
 }
+
 footer{
     position: relative;
     margin-top: 8em;
 }
+
 #laf1{
     opacity: 0.3;
     position: absolute;
     width: 47%;
     margin-top: 0em;
 }
+
 #laf2{
     opacity: 0.3;
     width: 43%;
 }
+
 #fl{
     position: absolute;
     left: 50%;
     margin-top: -1em;
 }
+
 .vb{
     opacity: 0.3;
     text-align: center;
     margin-left: 1.8em;
     margin-top: 3em;
 }
+
 .vbp{
     margin-top: -0.8em;
     letter-spacing: -0.1em;
