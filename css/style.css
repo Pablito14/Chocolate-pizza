@@ -1,3 +1,4 @@
+
 header{
     position: relative;
 }
@@ -32,7 +33,7 @@ lt{
     margin-top: -2.5em;
 }
 
-#pi{
+#picon{
     margin-right: 0.7em;
 }
 
@@ -44,7 +45,7 @@ lt{
     margin: 2em 2em;
 }
 
-#cp{
+#chocopizza{
     font-family: 'Pathway Gothic One', sans-serif;
     font-size: 3.5em;
     margin-bottom: -0.6em;
